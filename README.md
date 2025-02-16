@@ -2,3 +2,4 @@ A repository showcasing projects focused on experiments and studies with Go, exp
 
 - estados-cidades-api
 - quizgo
+- go-api
