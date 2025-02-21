@@ -1,0 +1,3 @@
+[submodule "house-manager-api"]
+	path = house-manager-api
+	url = https://github.com/limadlp/house-manager-api
